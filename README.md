@@ -1,4 +1,5 @@
-Hello! My name is Hendrik van Antwerpen and I am an engineer at GitHub.
+Hello![IMG_20230529_080512_457](https://github.com/hendrikvanantwerpen/hendrikvanantwerpen/assets/147487865/fd381948-714c-462b-bf77-22075d728e68)
+! My name is Hendrik van Antwerpen and I am an engineer at GitHub.
 I work with my colleagues to provide great semantic code services to all GitHub users.
 
 In case you were wondering, my avatar was created by a slightly more talented artist than myself, Joan Miro, and hangs over my physical desk as well! 
